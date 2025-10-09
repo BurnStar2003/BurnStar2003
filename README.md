@@ -1,16 +1,27 @@
-## Hi there 👋
+# Olá! Eu sou o Leonardo Padial Fernandes 👋
 
-<!--
-**BurnStar2003/BurnStar2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Analista de Soluções Digitais e Desenvolvedor em Formação
 
-Here are some ideas to get you started:
+Sou um profissional proativo em busca da primeira oportunidade como Estagiário em TI ou Desenvolvedor Júnior. Sou apaixonado por **otimização de processos** e **desenvolvimento ágil**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Meu foco atual é o ecossistema Low-Code, especialmente o **Microsoft Power Platform (Power Apps e Power Automate)**, combinando com meus conhecimentos em desenvolvimento tradicional.
+
+---
+
+### 💻 Minhas Habilidades Técnicas
+
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Linguagens** | `Java` • `JavaScript` • `C# (Início)` |
+| **Front-end** | `HTML` • `CSS` |
+| **Banco de Dados** | `SQL` |
+| **Low-Code** | `Microsoft Power Platform` (Interesse/Conceitos) |
+| **Ferramentas** | `Git` • `GitHub` |
+
+---
+
+### 🚀 Onde Me Encontrar
+
+- 📧 **E-mail:** leonardopadialfer2016@gmail.com
+- 🔗 **LinkedIn:** [(http://linkedin.com/in/leonardo-padial-fernandes-623b25201)]
+- 🌐 **Meus Repositórios em Destaque:** (Veja abaixo!)
