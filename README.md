@@ -13,8 +13,8 @@ Meu foco atual é o ecossistema Low-Code, especialmente o **Microsoft Power Plat
 | Categoria | Tecnologias |
 | :--- | :--- |
 | **Linguagens** | `Java` • `JavaScript` • `C# (Início)` |
-| **Front-end** | `HTML` • `CSS` |
-| **Banco de Dados** | `SQL` |
+| **Front-end** | `HTML` • `CSS` `React (Início)` • `Angular (Início)`|
+| **Banco de Dados** | `SQL Server` • `MySQL` |
 | **Low-Code** | `Microsoft Power Platform` (Interesse/Conceitos) |
 | **Ferramentas** | `Git` • `GitHub` |
 
@@ -23,5 +23,5 @@ Meu foco atual é o ecossistema Low-Code, especialmente o **Microsoft Power Plat
 ### 🚀 Onde Me Encontrar
 
 - 📧 **E-mail:** leonardopadialfer2016@gmail.com
-- 🔗 **LinkedIn:** [(http://linkedin.com/in/leonardo-padial-fernandes-623b25201)]
+- 🔗 **LinkedIn:** (http://linkedin.com/in/leonardo-padial-fernandes-623b25201)
 - 🌐 **Meus Repositórios em Destaque:** (Veja abaixo!)
