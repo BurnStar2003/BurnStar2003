@@ -12,7 +12,7 @@ Meu foco atual é o ecossistema Low-Code, especialmente o **Microsoft Power Plat
 
 | Categoria | Tecnologias |
 | :--- | :--- |
-| **Linguagens** | `Java` • `JavaScript` • `C# (Início)` • `MySQL (Início)` • `Power BI` • `PHP` |
+| **Linguagens** | `Java` • `JavaScript` • `C# (Início)`|
 | **Front-end** | `HTML` • `CSS` `React (Início)` • `Angular (Início)`|
 | **Banco de Dados** | `SQL Server` • `MySQL` |
 | **Low-Code** | `Microsoft Power Platform` (Interesse/Conceitos) |
